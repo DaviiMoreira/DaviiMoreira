@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=180&section=header&text=Davi%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jovem%20Aprendiz%20em%20Tecnologia%20da%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=5FA8D3&center=true&vCenter=true&width=600&lines=Estudante+de+programa%C3%A7%C3%A3o;Em+busca+de+oportunidade+em+TI;Manaus%2C+AM+%7C+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=5FA8D3&center=true&vCenter=true&width=600&lines=Estudante+de+programa%C3%A7%C3%A3o;Estudando+AWS+Cloud;Em+busca+de+oportunidade+em+TI;Manaus%2C+AM+%7C+Brasil" alt="Typing SVG" />
 
 <br/>
 
@@ -15,13 +15,13 @@
 
 ## Sobre mim
 
-Sou Jovem Aprendiz e estou construindo minha carreira na área de Tecnologia da Informação. Concluí o Programa Jovem Aprendiz do CIEE e hoje dedico meu tempo aos estudos de programação, com foco em lógica, desenvolvimento web e boas práticas de código.
+Sou Jovem Aprendiz e estou construindo minha carreira na área de Tecnologia da Informação. Concluí o Programa Jovem Aprendiz do CIEE e hoje dedico meu tempo aos estudos de programação, com foco em lógica, desenvolvimento web, computação em nuvem (AWS) e boas práticas de código.
 
 Este perfil é onde registro minha evolução e os projetos que desenvolvo ao longo dos estudos.
 
 - 📍 Manaus, AM
 - 🎓 Ensino Médio com conclusão em 2026
-- 🌱 Estudando atualmente: JavaScript, TypeScript e React
+- 🌱 Estudando atualmente: AWS Cloud (rumo à certificação Cloud Practitioner), JavaScript, TypeScript e React
 - 💬 Aberto a oportunidades de Jovem Aprendiz em tecnologia
 
 ---
@@ -30,7 +30,7 @@ Este perfil é onde registro minha evolução e os projetos que desenvolvo ao lo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,aws,git,github,vscode&perline=10" />
 
 </div>
 
@@ -73,7 +73,7 @@ Este perfil é onde registro minha evolução e os projetos que desenvolvo ao lo
 |---|---|
 | Lógica de Programação | CETAM |
 | Informática Básica | Udemy |
-| Pacote Office Básico | Udemy |
+| AWS Cloud Practitioner Essentials (em andamento) | AWS Skill Builder |
 | Programa Jovem Aprendiz (Certificado de Conclusão) | CIEE |
 
 ---
