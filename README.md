@@ -39,30 +39,32 @@ Este perfil é onde registro minha evolução e os projetos que desenvolvo ao lo
 ## Projetos em destaque
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚧 Projeto 1</h3>
-      <p>Em breve. Espaço reservado para um novo projeto.</p>
-      <p><b>Tecnologias:</b> a definir</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 Projeto 2</h3>
-      <p>Em breve. Espaço reservado para um novo projeto.</p>
-      <p><b>Tecnologias:</b> a definir</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚧 Projeto 3</h3>
-      <p>Em breve. Espaço reservado para um novo projeto.</p>
-      <p><b>Tecnologias:</b> a definir</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 Projeto 4</h3>
-      <p>Em breve. Espaço reservado para um novo projeto.</p>
-      <p><b>Tecnologias:</b> a definir</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💰 Calculadora de Renda Fixa</h3>
+<a href="https://calculadora-renda-fixa-chi.vercel.app/"><img src="https://raw.githubusercontent.com/DaviiMoreira/calculadora-renda-fixa/main/docs/preview.png" width="100%" alt="Tela da Calculadora de Renda Fixa"/></a>
+<p>Compara CDB, LCI/LCA, Tesouro Selic e poupança com as taxas oficiais do dia, consultadas na API do Banco Central. Desconta imposto de renda, custódia e inflação e mostra qual opção rende mais.</p>
+<p><b>Tecnologias:</b> React, TypeScript, Vite, Vitest, Vercel Functions</p>
+<p><a href="https://calculadora-renda-fixa-chi.vercel.app/">Ver online</a> · <a href="https://github.com/DaviiMoreira/calculadora-renda-fixa">Código</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🚧 Projeto 2</h3>
+<p>Em breve. Espaço reservado para um novo projeto.</p>
+<p><b>Tecnologias:</b> a definir</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚧 Projeto 3</h3>
+<p>Em breve. Espaço reservado para um novo projeto.</p>
+<p><b>Tecnologias:</b> a definir</p>
+</td>
+<td width="50%" valign="top">
+<h3>🚧 Projeto 4</h3>
+<p>Em breve. Espaço reservado para um novo projeto.</p>
+<p><b>Tecnologias:</b> a definir</p>
+</td>
+</tr>
 </table>
 
 ---
